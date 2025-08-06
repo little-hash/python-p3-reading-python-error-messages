@@ -1,3 +1,5 @@
 #!/usr/bin/env python3
-
-wrong_type = 'abc' + 123
+a , b, c = 5 , 10 , 11
+wrong_type = a * b
+good_type = wrong_type * 11
+print(good_type)

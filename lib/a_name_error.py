@@ -1,3 +1,4 @@
 #!/usr/bin/env python3
 
-print(hello_world)
+Greatings = "hello_world"
+print(Greatings)
